@@ -31,4 +31,6 @@ export default {
 
 
 Clone this repo and fun following:
+
+
 ![image](https://github.com/jagmeetkaurtiet/react-ty-app/assets/105890187/84545203-a36f-49e0-8619-9f2865d6361b)
