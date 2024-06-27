@@ -35,16 +35,16 @@ Clone this repo and fun following:
 
 It covers:
 
--Setting Up the Development Environment
--Creating a React App
--Creating a React Component
--Building Components
--Creating a ListGroup Component
--Fragments
--Rendering Lists
--Conditional Rendering
--Handling Events
--Managing State
--Passing Data Via Props
--Passing Functions Via Props
--Passing Children
+- Setting Up the Development Environment
+- Creating a React App
+- Creating a React Component
+- Building Components
+- Creating a ListGroup Component
+- Fragments
+- Rendering Lists
+- Conditional Rendering
+- Handling Events
+- Managing State
+- Passing Data Via Props
+- Passing Functions Via Props
+- Passing Children
