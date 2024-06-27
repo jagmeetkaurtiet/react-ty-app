@@ -17,20 +17,34 @@ If you are developing a production application, we recommend updating the config
 export default {
   // other rules...
   parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
+    ecmaVersion: "latest",
+    sourceType: "module",
+    project: ["./tsconfig.json", "./tsconfig.node.json"],
     tsconfigRootDir: __dirname,
   },
-}
+};
 ```
 
 - Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
 - Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
 - Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
 
-
 Clone this repo and fun following:
 
-
 ![image](https://github.com/jagmeetkaurtiet/react-ty-app/assets/105890187/84545203-a36f-49e0-8619-9f2865d6361b)
+
+It covers:
+
+Setting Up the Development Environment
+Creating a React App
+Creating a React Component
+Building Components
+Creating a ListGroup Component
+Fragments
+Rendering Lists
+Conditional Rendering
+Handling Events
+Managing State
+Passing Data Via Props
+Passing Functions Via Props
+Passing Children
